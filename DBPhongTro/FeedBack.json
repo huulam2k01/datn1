@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "62fa01eaaaee731fa0d91065"
+  },
+  "timefeedback": {
+    "$date": {
+      "$numberLong": "1660547160728"
+    }
+  },
+  "titelfeedback": "nhà trọ rẻ thật",
+  "contentfeedback": "nhà trọ rẻ thật",
+  "iduser": "62ec7f7b0d1e802f30462dab"
+},{
+  "_id": {
+    "$oid": "631732c4b7a7bb4a50910fa8"
+  },
+  "timefeedback": {
+    "$date": {
+      "$numberLong": "1662464611650"
+    }
+  },
+  "titelfeedback": "Nhà trọ của web rẻ",
+  "contentfeedback": "Nhà trọ rẻ, đẹp, phù hợp với nhu cầu\nTìm kiếm nhanh, đơn giản",
+  "iduser": "62ec7f7b0d1e802f30462dab"
+}]
